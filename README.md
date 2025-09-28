@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><img src="icon.png"/></p>
 
 # Starter Kit 3D Platformer
@@ -32,3 +33,6 @@ Assets included in this package (2D sprites, 3D models and sound effects) are [C
 =======
 # Lab7_3D_Game
 >>>>>>> 5e3199fcbba44b8817655ca08db6f2d6a9a96381
+=======
+# Lab7_3D_Game
+>>>>>>> 141c38ce308d823a4b2fd23232fad3ac03c70877
